@@ -164,15 +164,14 @@ const Home = () => {
         </Card>
 
         <Card>
-          
-          <InfoTitle>Kumar Bağımlılığının Yaygınlığı: Global Grafik</InfoTitle>
-            <Image 
-              src="https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-              alt="Global Gambling Addiction Statistics"
-            />
-            <p><strong>Global Kumar Bağımlılığı Yaygınlığı:</strong> Dünya genelinde kumar bağımlılığının yaygınlığı, araştırmalara göre artmaktadır. Bu grafik, farklı yaş gruplarındaki bireylerin kumar bağımlılığına oranlarını göstermektedir.</p>
-          
-        </Card>
+  <InfoTitle>Kumar Bağımlılığının Yaygınlığı: Global Grafik</InfoTitle>
+  <Image 
+    src="https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    alt="Global Gambling Addiction Statistics"
+  />
+  <p><strong>Global Kumar Bağımlılığı Yaygınlığı:</strong> Dünya genelinde kumar bağımlılığının yaygınlığı, araştırmalara göre artmaktadır. Dünya çapında %1-2 arasında bir nüfus kumar bağımlılığına sahipken, bu oran özellikle erkeklerde ve genç nüfus arasında daha yüksektir. Kumar bağımlılığı, finansal zorluklar, depresyon ve diğer psikolojik sağlık sorunlarına yol açabilmektedir. Ayrıca, çevrimiçi kumarın yükselmesiyle, dijital kumar bağımlılığı da hızla artmaktadır. Birçok ülke, kumar bağımlılığını önlemek ve tedavi etmek için çeşitli politikalar geliştirmektedir.</p>
+</Card>
+
 
         <Card>
   <InfoTitle>Kumar Bağımlılığının Psikolojik Etkileri</InfoTitle>
